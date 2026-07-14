@@ -1,6 +1,6 @@
 # Superstore Retail Analytics
 
-A end-to-end retail analytics project examining regional profitability, product performance, seasonality, and customer value using the Superstore dataset. Built with SQL, Python, and Power BI.
+An end-to-end retail analytics project examining regional profitability, product performance, seasonality, and customer value using the Superstore dataset. Built with SQL, Python, and Power BI.
 
 ## Business Questions
 
