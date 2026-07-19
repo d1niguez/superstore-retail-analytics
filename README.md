@@ -50,6 +50,5 @@ The Power BI dashboard includes four interactive visuals: regional profitability
 
 ## Next Steps
 
-- Investigate why the "Supplies" sub-category loses money despite minimal discounting (unlike Tables/Bookcases, where discounting is the clear driver)
 - Explore whether Central region's discount authorization practices differ structurally from other regions
 - Extend RFM segmentation with a cohort analysis to track how customer value changes over time
